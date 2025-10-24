@@ -21,5 +21,19 @@ A **Counter-Strike 1.6 Deathmatch** plugin that introduces **Golden AK-47, M4A1,
 4. Add this line to your plugins.ini: csdm_golden_weapons.amxx
 5. Restart your server.
 
+## Prices
+| Weapon       | Cost  |
+|--------------|-------|
+| Golden AK-47 | $3000 |
+| Golden M4A1  | $3000 |
+| Golden AWP   | $4250 |
+
+## Commands
+| Command      | Description                             |
+|--------------|-----------------------------------------|
+| `/goldenak`  | Buy a Golden AK-47                      |
+| `/goldenm4`  | Buy a Golden M4A1                       |
+| `/goldenawp` | Buy a Golden AWP (VIP-only if enabled)  |
+
 ## Notice
 > This plugin concept is **not originally mine**, many “golden weapons” scripts exist, however, this one was **fully re-coded from scratch** using **ReAPI**.
